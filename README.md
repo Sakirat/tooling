@@ -71,7 +71,7 @@ Default web root:
 
 
 
-editinh the read me file to check if changes will reflect on Jenkins
+
 /usr/share/nginx/html
 ```
 
