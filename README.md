@@ -82,3 +82,6 @@ Default web root:
 ```
 
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
+
+## I am now learning new ways of doing things
+```
